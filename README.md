@@ -25,8 +25,8 @@ Your group will keep all materials and co-ordination information on a Github sit
 
 ## Video presentation (maximum length 8 minutes).
 
-Submit a single .mp4 file for your presentation on this Canvas site.
-You may use any mix of tools that your group considers appropriate. This can include your notebooks and slides.
+-  Submit a single .mp4 file for your presentation on this Canvas site.
+-  You may use any mix of tools that your group considers appropriate. This can include your notebooks and slides.
 
 ## Report
 
@@ -64,7 +64,7 @@ Product notebook:
 -  10 - presentation of information clear, consistent, easy to understand, careful accounting for uncertainty
 -  10 - presentation and organisation 
 -  10 - holistic assessment based on all the above and going beyond the core (e.g. considering additional datasets, additional driving questions) - note that groups are only eligible for this part of the marks if each of the above criteria have earned a grade of D+ as described below.
-Note:  The Process Notebooks reflect individual contributions and are part of the hurdle for the group mark.
+-  Note:  The Process Notebooks reflect individual contributions and are part of the hurdle for the group mark.
 
  
 
@@ -72,18 +72,18 @@ Note:  The Process Notebooks reflect individual contributions and are part of th
 
 # Minimum requirements used to grade each criterion.
 
-HD - full marks: Outstanding for all aspects on the relevant checklist items. Excellent presentation in terms of clarity, structure, written expression and layout.
-D - HD:  All aspects are solid and at least half are done very well. Excellent presentation.
-Cr - D: Most aspects attempted and at least half are solid. Good presentation.
-P - Cr: Most aspects attempted. 
+-  HD - full marks: Outstanding for all aspects on the relevant checklist items. Excellent presentation in terms of clarity, structure, written expression and layout.
+-  D - HD:  All aspects are solid and at least half are done very well. Excellent presentation.
+-  Cr - D: Most aspects attempted and at least half are solid. Good presentation.
+-  P - Cr: Most aspects attempted. 
  
 
 # Overview of checkpoints and deadlines in mini-assignments and tutorials:
 
 
-Due Week 7: Form groups and select problem and dataset. Initial set of Issues.
-Due Week 8: Checkpoint for individual data exploration process notebook to gain understanding. Issues for task allocation among team members and agreed deadlines.
-Due Week 9: Checkpoint for individual data analysis process notebook towards the driving question.
-Due Week 10: Checkpoint for outline of your group's product notebook.
-Due Week 11: Checkpoint for Github Issues to be resolved in the last week of the project. Deadline for video.
-Due Week 12: Video presentation in tute. Deadline for the report.
+-  Due Week 7: Form groups and select problem and dataset. Initial set of Issues.
+-  Due Week 8: Checkpoint for individual data exploration process notebook to gain understanding. Issues for task allocation among team members and agreed deadlines.
+-  Due Week 9: Checkpoint for individual data analysis process notebook towards the driving question.
+-  Due Week 10: Checkpoint for outline of your group's product notebook.
+-  Due Week 11: Checkpoint for Github Issues to be resolved in the last week of the project. Deadline for video.
+-  Due Week 12: Video presentation in tute. Deadline for the report.
