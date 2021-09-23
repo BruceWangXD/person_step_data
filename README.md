@@ -1,4 +1,7 @@
-# Data3406
+# Data3406 Assignment 2
+
+
+
 
 # Overview and Motivation
 You will work in a group to tackle a data analysis problem, putting into practice aspects of the human-in-the-loop data analysis from the lectures and tutorials.
