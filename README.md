@@ -1,6 +1,8 @@
 # Data3406 Assignment 2
 
+# Project topic: Personal Informatics
 
+driving question: Was I more active in the last 12 months than the 12 months before that?
 
 
 # Overview and Motivation
