@@ -1,5 +1,24 @@
 # Data3406 Assignment 2
 
+# Links 
+
+## Link to reproducible notebook
+
+https://github.sydney.edu.au/ywan3485/2021-DATA3406-PRAC07-Group3/blob/master/Final_Report/reproductible_book.ipynb
+
+## Link to group reflection wiki page
+
+https://github.sydney.edu.au/ywan3485/2021-DATA3406-PRAC07-Group3/wiki/Group-Reflection
+
+## Link to group reflection google doc
+
+https://docs.google.com/document/d/1f6CrK0uwEzCtn_2oK_hjcSO8ptdukpQywRJz7k_fFnw/edit
+
+
+
+
+
+
 # Project topic: Personal Informatics
 
 driving question: Was I more active in the last 12 months than the 12 months before that?
