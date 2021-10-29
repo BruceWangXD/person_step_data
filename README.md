@@ -14,6 +14,22 @@ https://github.sydney.edu.au/ywan3485/2021-DATA3406-PRAC07-Group3/wiki/Group-Ref
 
 https://docs.google.com/document/d/1f6CrK0uwEzCtn_2oK_hjcSO8ptdukpQywRJz7k_fFnw/edit
 
+## Ethical Analysis
+There are two datasets that contain the daily step counts of 2 Australian individuals from December 2014 to September 2021. They both conducted some overseas travel. The data is combined with mobile and smartwatch recorded step counts. The stakeholders have the right to know how will the data be analyzed, how would the researchers use the data for analysis, how does the data collected, and if the data will spoil the privacy of the users. The data ensures the **anonymity** of the subjects, it only records the subject’s source, step collected date, step collected hour and step count. There is no way others can track the subject by information provided by these datasets.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
