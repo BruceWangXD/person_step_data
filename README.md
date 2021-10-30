@@ -1,13 +1,13 @@
 # Data3406 Assignment 2
 
 # Links (Report overview)
-## Link to ethical Analysis
-
-https://github.sydney.edu.au/ywan3485/2021-DATA3406-PRAC07-Group3/wiki/Ethical-analysis
-
 ## Link to reproducible notebook
 
 https://github.sydney.edu.au/ywan3485/2021-DATA3406-PRAC07-Group3/blob/master/Final_Report/reproductible_book.ipynb
+
+## Link to ethical Analysis
+
+https://github.sydney.edu.au/ywan3485/2021-DATA3406-PRAC07-Group3/wiki/Ethical-analysis
 
 ## Link to use of issues and wiki for group process
 
