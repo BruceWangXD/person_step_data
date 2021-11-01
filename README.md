@@ -27,7 +27,5 @@ https://github.sydney.edu.au/ywan3485/2021-DATA3406-PRAC07-Group3/wiki/Group-Ref
 
 https://github.sydney.edu.au/ywan3485/2021-DATA3406-PRAC07-Group3/wiki/Think-aloud,-cognitive-Walkthrough-and-reflection-of-lessons
 
-## Link to group reflection google doc
 
-https://docs.google.com/document/d/1f6CrK0uwEzCtn_2oK_hjcSO8ptdukpQywRJz7k_fFnw/edit
 
